@@ -1,0 +1,75 @@
+[
+  {
+    "ContainingType": "EventoApi.Controllers.EventoController",
+    "Method": "CrearEvento",
+    "RelativePath": "API/Evento/CrearEvento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "evento",
+        "Type": "EventoApi.Models.Evento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventoApi.Controllers.EventoController",
+    "Method": "ActualizarEvento",
+    "RelativePath": "API/Evento/EditarEvento/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "evento",
+        "Type": "EventoApi.Models.Evento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventoApi.Controllers.EventoController",
+    "Method": "ObtenerEventoPorId",
+    "RelativePath": "API/Evento/EventoPorId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventoApi.Controllers.EventoController",
+    "Method": "ObtenerEventos",
+    "RelativePath": "API/Evento/ListaEventos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventoApi.Controllers.LugarController",
+    "Method": "ObtenerLugares",
+    "RelativePath": "API/Lugar/ListaLugares",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,111 @@
+/* Contenedor principal */
+.buscar-evento-container {
+    max-width: 64rem; /* Equivalente a max-w-5xl en Tailwind */
+    margin: 0 auto; /* Centrar el contenedor */
+    padding: 1.5rem; /* Equivalente a p-6 en Tailwind */
+  }
+  
+  /* Título */
+  .buscar-evento-title {
+    font-size: 1.5rem; /* Equivalente a text-2xl en Tailwind */
+    font-weight: bold;
+    margin-bottom: 1.5rem; /* Equivalente a mb-6 en Tailwind */
+    color: #1a202c; /* Equivalente a text-gray-800 en Tailwind */
+    background-color: #63b3ed; /* Equivalente a bg-blue-400 en Tailwind */
+    padding: 0.5rem 1rem; /* Añadir padding para que se vea mejor */
+    border-radius: 0.25rem; /* Bordes redondeados */
+  }
+  
+  /* Barra de búsqueda */
+  .buscar-evento-search-bar {
+    display: flex;
+    align-items: center;
+    gap: 1rem; /* Espacio entre elementos */
+    margin-bottom: 1.5rem; /* Equivalente a mb-6 en Tailwind */
+  }
+  
+  .buscar-evento-input {
+    flex: 1;
+    padding: 0.5rem; /* Equivalente a p-2 en Tailwind */
+    border: 1px solid #e2e8f0; /* Equivalente a border-gray-300 en Tailwind */
+    border-radius: 0.5rem; /* Equivalente a rounded-lg en Tailwind */
+    outline: none;
+  }
+  
+  .buscar-evento-input:focus {
+    border-color: #4299e1; /* Equivalente a focus:ring-blue-400 en Tailwind */
+    box-shadow: 0 0 0 2px rgba(66, 153, 225, 0.5); /* Equivalente a focus:ring-2 en Tailwind */
+  }
+  
+  /* Botones */
+  .buscar-evento-button {
+    padding: 0.5rem 1rem; /* Equivalente a px-4 py-2 en Tailwind */
+    border-radius: 0.5rem; /* Equivalente a rounded-lg en Tailwind */
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .buscar-evento-button-add {
+    background-color: #4299e1; /* Equivalente a bg-blue-500 en Tailwind */
+    color: white;
+  }
+  
+  .buscar-evento-button-add:hover {
+    background-color: #3182ce; /* Equivalente a hover:bg-blue-600 en Tailwind */
+  }
+  
+  /* Tabla */
+  .buscar-evento-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #e2e8f0; /* Equivalente a border-gray-300 en Tailwind */
+  }
+  
+  .buscar-evento-table-header {
+    background-color: #f7fafc; /* Equivalente a bg-gray-100 en Tailwind */
+  }
+  
+  .buscar-evento-table-header th {
+    border: 1px solid #e2e8f0; /* Equivalente a border-gray-300 en Tailwind */
+    padding: 0.5rem; /* Equivalente a p-2 en Tailwind */
+    text-align: left;
+  }
+  
+  .buscar-evento-table-row {
+    transition: background-color 0.2s;
+  }
+  
+  .buscar-evento-table-row:hover {
+    background-color: #f7fafc; /* Equivalente a hover:bg-gray-50 en Tailwind */
+  }
+  
+  .buscar-evento-table-row td {
+    border: 1px solid #e2e8f0; /* Equivalente a border-gray-300 en Tailwind */
+    padding: 0.5rem; /* Equivalente a p-2 en Tailwind */
+  }
+  
+  /* Botón de editar */
+  .buscar-evento-button-edit {
+    color: #4299e1; /* Equivalente a text-blue-500 en Tailwind */
+    font-weight: 600; /* Equivalente a font-semibold en Tailwind */
+    cursor: pointer;
+    transition: color 0.2s;
+    color:white;
+  }
+  
+  .buscar-evento-button-edit:hover {
+    color: #3182ce; /* Equivalente a hover:text-blue-600 en Tailwind */
+  }
+  .buscar-evento-button-eliminar {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-left: 5px;
+  }
+  
+  .buscar-evento-button-eliminar:hover {
+    background-color: #ff1a1a;
+  }

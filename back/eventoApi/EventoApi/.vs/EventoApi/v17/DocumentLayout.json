@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\valen\\desktop\\dise\u00F1ovf\\disenovf\\back\\eventoapi\\eventoapi\\controllers\\lugarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:controllers\\lugarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\valen\\desktop\\dise\u00F1ovf\\disenovf\\back\\eventoapi\\eventoapi\\services\\lugarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:services\\lugarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\valen\\desktop\\dise\u00F1ovf\\disenovf\\back\\eventoapi\\eventoapi\\services\\ilugarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:services\\ilugarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\valen\\desktop\\dise\u00F1ovf\\disenovf\\back\\eventoapi\\eventoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\valen\\desktop\\dise\u00F1ovf\\disenovf\\back\\eventoapi\\eventoapi\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\valen\\desktop\\dise\u00F1ovf\\disenovf\\back\\eventoapi\\eventoapi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\valen\\desktop\\dise\u00F1ovf\\disenovf\\back\\eventoapi\\eventoapi\\models\\lugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:models\\lugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\valen\\desktop\\dise\u00F1ovf\\disenovf\\back\\eventoapi\\eventoapi\\services\\ieventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:services\\ieventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\valen\\desktop\\dise\u00F1ovf\\disenovf\\back\\eventoapi\\eventoapi\\services\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:services\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\valen\\desktop\\dise\u00F1ovf\\disenovf\\back\\eventoapi\\eventoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\valen\\desktop\\dise\u00F1ovf\\disenovf\\back\\eventoapi\\eventoapi\\eventoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:eventoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Models\\Evento.cs",
+              "RelativeToolTip": "Models\\Evento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T00:07:36.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LugarService.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Services\\LugarService.cs",
+              "RelativeDocumentMoniker": "Services\\LugarService.cs",
+              "ToolTip": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Services\\LugarService.cs",
+              "RelativeToolTip": "Services\\LugarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:56:00.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "Controllers\\EventoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:55:37.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LugarController.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Controllers\\LugarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LugarController.cs",
+              "ToolTip": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Controllers\\LugarController.cs",
+              "RelativeToolTip": "Controllers\\LugarController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:55:38.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:55:57.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILugarService.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Services\\ILugarService.cs",
+              "RelativeDocumentMoniker": "Services\\ILugarService.cs",
+              "ToolTip": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Services\\ILugarService.cs",
+              "RelativeToolTip": "Services\\ILugarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:54:35.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEventoService.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Services\\IEventoService.cs",
+              "RelativeDocumentMoniker": "Services\\IEventoService.cs",
+              "ToolTip": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Services\\IEventoService.cs",
+              "RelativeToolTip": "Services\\IEventoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:54:29.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T20:34:51.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lugar.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Models\\Lugar.cs",
+              "RelativeDocumentMoniker": "Models\\Lugar.cs",
+              "ToolTip": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Models\\Lugar.cs",
+              "RelativeToolTip": "Models\\Lugar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:32:24.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventoService.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Services\\EventoService.cs",
+              "RelativeDocumentMoniker": "Services\\EventoService.cs",
+              "ToolTip": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\Services\\EventoService.cs",
+              "RelativeToolTip": "Services\\EventoService.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:55:42.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventoApi.csproj",
+              "DocumentMoniker": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\EventoApi.csproj",
+              "RelativeDocumentMoniker": "EventoApi.csproj",
+              "ToolTip": "C:\\Users\\valen\\Desktop\\DISE\u00D1OVF\\DISENOVF\\back\\eventoApi\\EventoApi\\EventoApi.csproj",
+              "RelativeToolTip": "EventoApi.csproj",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T17:39:09.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

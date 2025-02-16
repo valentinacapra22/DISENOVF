@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\orian\\documents\\github\\disenoapp\\back\\eventoapi\\eventoapi\\services\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:services\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\orian\\documents\\github\\disenoapp\\back\\eventoapi\\eventoapi\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\orian\\documents\\github\\disenoapp\\back\\eventoapi\\eventoapi\\controllers\\lugarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:controllers\\lugarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\orian\\documents\\github\\disenoapp\\back\\eventoapi\\eventoapi\\services\\lugarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:services\\lugarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\orian\\documents\\github\\disenoapp\\back\\eventoapi\\eventoapi\\models\\lugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:models\\lugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\orian\\documents\\github\\disenoapp\\back\\eventoapi\\eventoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|c:\\users\\orian\\documents\\github\\disenoapp\\back\\eventoapi\\eventoapi\\eventoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CACD878-7AE2-43A8-A582-F4D74F56AD15}|EventoApi.csproj|solutionrelative:eventoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventoService.cs",
+              "DocumentMoniker": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Services\\EventoService.cs",
+              "RelativeDocumentMoniker": "Services\\EventoService.cs",
+              "ToolTip": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Services\\EventoService.cs",
+              "RelativeToolTip": "Services\\EventoService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAHcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:55:42.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LugarController.cs",
+              "DocumentMoniker": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Controllers\\LugarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LugarController.cs",
+              "ToolTip": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Controllers\\LugarController.cs",
+              "RelativeToolTip": "Controllers\\LugarController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:55:38.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "Controllers\\EventoController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:55:37.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LugarService.cs",
+              "DocumentMoniker": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Services\\LugarService.cs",
+              "RelativeDocumentMoniker": "Services\\LugarService.cs",
+              "ToolTip": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Services\\LugarService.cs",
+              "RelativeToolTip": "Services\\LugarService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:56:00.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lugar.cs",
+              "DocumentMoniker": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Models\\Lugar.cs",
+              "RelativeDocumentMoniker": "Models\\Lugar.cs",
+              "ToolTip": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Models\\Lugar.cs",
+              "RelativeToolTip": "Models\\Lugar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:32:24.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:55:57.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventoApi",
+              "DocumentMoniker": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\EventoApi.csproj",
+              "RelativeDocumentMoniker": "EventoApi.csproj",
+              "ToolTip": "C:\\Users\\orian\\Documents\\GitHub\\disenoAPP\\back\\eventoApi\\EventoApi\\EventoApi.csproj",
+              "RelativeToolTip": "EventoApi.csproj",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T17:39:09.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
